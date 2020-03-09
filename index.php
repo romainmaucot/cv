@@ -1,4 +1,5 @@
-<?php include ("header.php")  ?>
+<?php include_once ("header.php")  ?>
+
 
         <!--================Home Banner Area =================-->
         <section class="home_banner_area">
@@ -283,100 +284,80 @@
         <!--================End Feature Area =================-->
 
         <!--================Home Gallery Area =================-->
-        <section class="home_gallery_area p_120">
+        <section class="home_gallery_area p_120" id="projects">
         	<div class="container">
         		<div class="main_title">
-        			<h2>Our Latest Featured Projects</h2>
-        			<p>Who are in extremely love with eco friendly system.</p>
+        			<h2>Projects réalisés</h2>
+        			<p>Voici une partie des projets auquels j'ai contribué. Qu'ils soient personels, en entreprise, scolaire où pour des clients ils méritent le coup d'oeil</p>
         		</div>
         		<div class="isotope_fillter">
         			<ul class="gallery_filter list">
-						<li class="active" data-filter="*"><a href="#">All</a></li>
-						<li data-filter=".brand"><a href="#">Vector</a></li>
-						<li data-filter=".manipul"><a href="#">Raster</a></li>
-						<li data-filter=".creative"><a href="#">UI/UX</a></li>
-						<li data-filter=".design"><a href="#">Printing</a></li>
+						<li class="active" data-filter="*"><a href="#">Tous</a></li>
+						<li data-filter=".entreprise"><a href="#">En entreprise</a></li>
+						<li data-filter=".school"><a href="#">Scolaire</a></li>
+						<li data-filter=".client"><a href="#">Client</a></li>
 					</ul>
         		</div>
         	</div>
         	<div class="container">
         		<div class="gallery_f_inner row imageGallery1">
-        			<div class="col-lg-4 col-md-4 col-sm-6 brand manipul design print">
+                    <div class="col-lg-4 col-md-4 col-sm-6 client">
         				<div class="h_gallery_item">
         					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/project-1.jpg" alt="">
-        						<a class="light" href="img/gallery/project-1.jpg"><img src="img/gallery/icon.png" alt=""></a>
+        						<img class="img-fluid" src="img/gallery/rockntattoo.jpg" alt="">
+        						<a class="lightcustom" data-toggle="modal" data-target="#rockntattoo">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
         					</div>
         					<div class="g_item_text">
-        						<h4>3D Helmet Design</h4>
-        						<p>Client Project</p>
+        						<h4>Rock N Tattoo</h4>
+        						<p>Salon de tattouage à Nancy</p>
         					</div>
         				</div>
         			</div>
-        			<div class="col-lg-4 col-md-4 col-sm-6 brand manipul creative">
-        				<div class="h_gallery_item">
-        					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/project-2.jpg" alt="">
-        						<a class="light" href="img/gallery/project-2.jpg"><img src="img/gallery/icon.png" alt=""></a>
-        					</div>
-        					<div class="g_item_text">
-        						<h4>2D Vinyl Design</h4>
-        						<p>Client Project</p>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
-        				<div class="h_gallery_item">
-        					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/project-3.jpg" alt="">
-        						<a class="light" href="img/gallery/project-3.jpg"><img src="img/gallery/icon.png" alt=""></a>
-        					</div>
-        					<div class="g_item_text">
-        						<h4>Creative Poster Design</h4>
-        						<p>Client Project</p>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-4 col-sm-6 brand creative print">
-        				<div class="h_gallery_item">
-        					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/project-4.jpg" alt="">
-        						<a class="light" href="img/gallery/project-4.jpg"><img src="img/gallery/icon.png" alt=""></a>
-        					</div>
-        					<div class="g_item_text">
-        						<h4>Embosed Logo Design</h4>
-        						<p>Client Project</p>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-4 col-sm-6 brand manipul design">
-        				<div class="h_gallery_item">
-        					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/project-5.jpg" alt="">
-        						<a class="light" href="img/gallery/project-5.jpg"><img src="img/gallery/icon.png" alt=""></a>
-        					</div>
-        					<div class="g_item_text">
-        						<h4>3D Disposable Bottle</h4>
-        						<p>Client Project</p>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-4 col-sm-6 brand creative">
-        				<div class="h_gallery_item">
-        					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/project-6.jpg" alt="">
-        						<a class="light" href="img/gallery/project-6.jpg"><img src="img/gallery/icon.png" alt=""></a>
-        					</div>
-        					<div class="g_item_text">
-        						<h4>3D Logo Design</h4>
-        						<p>Client Project</p>
-        					</div>
-        				</div>
-        			</div>
-        		</div>
-        		<div class="more_btn">
-        			<a class="main_btn" href="#">Load More Items</a>
-        		</div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 entreprise">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/sep.jpg" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#sep">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Sep Mes Droits</h4>
+                                <p>Aide pour les personnes atteintes de la sclérose en plaque</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 entreprise">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/fairmont.png" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#fairmont">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Hôtels Fairmont</h4>
+                                <p>Jeu concours</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 entreprise">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/photo-comparator.jpg" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#photo">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Photo Comparator</h4>
+                                <p>Un outil pour les dermatologues</p>
+                            </div>
+                        </div>
+                    </div>
+
         	</div>
         </section>
         <!--================End Home Gallery Area =================-->
@@ -385,122 +366,31 @@
         <section class="testimonials_area p_120">
         	<div class="container">
         		<div class="main_title">
-        			<h2>Testimonials</h2>
-        			<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.</p>
+        			<h2>Petit plaisir</h2>
+        			<p>À écouter sans modération! Si vous ne connaissez pas, voici FKJ un artistes français aux influences funk, jazz, soul et électroniques.</p>
         		</div>
-        		<div class="testi_inner">
-					<div class="testi_slider owl-carousel">
-						<div class="item">
-							<div class="testi_item">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel across her face</p>
-								<h4>Fanny Spencer</h4>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star-half-o"></i></a>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testi_item">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel across her face</p>
-								<h4>Fanny Spencer</h4>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star-half-o"></i></a>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testi_item">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel across her face</p>
-								<h4>Fanny Spencer</h4>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star-half-o"></i></a>
-							</div>
-						</div>
-					</div>
+
+                    <div class="embedresize">
+                        <div>
+                            <iframe width="100%" height="650" src="https://www.youtube.com/embed/sCNlt5nvSI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
         		</div>
-        	</div>
+
         </section>
         <!--================End Testimonials Area =================-->
 
         <!--================Footer Area =================-->
-        <footer class="footer_area p_120">
+        <footer class="footer_area pt-3">
         	<div class="container">
         		<div class="row footer_inner">
-        			<div class="col-lg-5 col-sm-6">
-        				<aside class="f_widget ab_widget">
-        					<div class="f_title">
-        						<h3>About Me</h3>
-        					</div>
-        					<p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills,</p>
-        					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-        				</aside>
-        			</div>
-        			<div class="col-lg-5 col-sm-6">
-        				<aside class="f_widget news_widget">
-        					<div class="f_title">
-        						<h3>Newsletter</h3>
-        					</div>
-        					<p>Stay updated with our latest trends</p>
-        					<div id="mc_embed_signup">
-                                <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
-                                	<div class="input-group d-flex flex-row">
-                                        <input name="EMAIL" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
-                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>
-                                    </div>
-                                    <div class="mt-10 info"></div>
-                                </form>
-                            </div>
-        				</aside>
-        			</div>
-        			<div class="col-lg-2">
-        				<aside class="f_widget social_widget">
-        					<div class="f_title">
-        						<h3>Follow Me</h3>
-        					</div>
-        					<p>Let us be social</p>
-        					<ul class="list">
-        						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-        						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        						<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-        						<li><a href="#"><i class="fa fa-behance"></i></a></li>
-        					</ul>
-        				</aside>
+        			<div class="col-lg-12 col-sm-12 text-center">
+                        <p class="text-white">Made with <i class="fa fa-heart-o" aria-hidden="true"></i> </p>
         			</div>
         		</div>
         	</div>
         </footer>
         <!--================End Footer Area =================-->
-
-
-
-
-
-
-        <!-- Optional JavaScript -->
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <!-- GTranslate: https://gtranslate.io/ -->
-
-<style type="text/css">
-<!--
-a.gflag {vertical-align:middle;font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url(//gtranslate.net/flags/16.png);}
-a.gflag img {border:0;}
-a.gflag:hover {background-image:url(//gtranslate.net/flags/16a.png);}
-#goog-gt-tt {display:none !important;}
-.goog-te-banner-frame {display:none !important;}
-.goog-te-menu-value:hover {text-decoration:none !important;}
-body {top:0 !important;}
-#google_translate_element2 {display:none!important;}
--->
-</style>
 
 <select style="display: none" onchange="doGTranslate(this);"></select><div style="display: none" id="google_translate_element2"></div>
 <script type="text/javascript">
@@ -522,10 +412,11 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
         <script src="vendors/lightbox/simpleLightbox.min.js"></script>
         <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
         <script src="vendors/isotope/isotope.pkgd.min.js"></script>
-        <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
         <script src="vendors/popup/jquery.magnific-popup.min.js"></script>
         <script src="vendors/counter-up/jquery.waypoints.min.js"></script>
         <script src="vendors/counter-up/jquery.counterup.min.js"></script>
         <script src="js/theme.js"></script>
+        <script src="js/custom.js"></script>
     </body>
 </html>
+<?php include_once ("modal/rockntattoo.html")  ?>

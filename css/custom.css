@@ -1,0 +1,54 @@
+a.gflag {vertical-align:middle;font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url(//gtranslate.net/flags/16.png);}
+a.gflag img {border:0;}
+a.gflag:hover {background-image:url(//gtranslate.net/flags/16a.png);}
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+.embedresize {
+    max-width: 100%;
+    margin: auto;
+}
+
+.embedresize div {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.embedresize iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.intro #intro .embedresize iframe,
+.exit .quizz .embedresize iframe,
+.alreadyplayed #intro .embedresize iframe,
+.identityset #intro .embedresize iframe,
+#notabene .embedresize iframe,
+#message_intro .embedresize iframe,
+.fancybox_body .embedresize iframe,
+#comments .embedresize iframe,
+#description .embedresize iframe,
+.alreadyplayed .embedresize iframe,
+#adserver .embedresize iframe {
+    max-width: none !important;
+}
+
+.h_gallery_item .g_img_item .lightcustom {
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    transform: translateY(-5%);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    opacity: 0;
+    display: table-cell;
+    cursor: pointer;
+}

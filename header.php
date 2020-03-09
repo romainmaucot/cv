@@ -10,15 +10,14 @@
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="vendors/linericon/style.css">
         <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
         <link rel="stylesheet" href="vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
         <link rel="stylesheet" href="vendors/animate-css/animate.css">
         <link rel="stylesheet" href="vendors/popup/magnific-popup.css">
         <link rel="stylesheet" href="vendors/flaticon/flaticon.css">
         <!-- main css -->
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/responsive.css">
+        <link rel="stylesheet" href="css/custom.css">
     </head>
     <body>
 
@@ -36,10 +35,10 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 							<ul class="nav navbar-nav menu_nav ml-auto">
-								<li class="nav-item active"><a class="nav-link" href="#aboutme">&Agrave; propos de moi</a></li>
-								<li class="nav-item"><a class="nav-link" href="#experiences">Parcours</a></li>
-								<li class="nav-item"><a class="nav-link" href="#skills">Compétences</a></li>
-								<li class="nav-item"><a class="nav-link" href="#projects">Projets</a></li>
+								<li class="nav-item active"><a class="nav-link js-scrollTo" href="#aboutme">&Agrave; propos de moi</a></li>
+								<li class="nav-item"><a class="nav-link js-scrollTo" href="#experiences">Parcours</a></li>
+								<li class="nav-item"><a class="nav-link js-scrollTo" href="#skills">Compétences</a></li>
+								<li class="nav-item"><a class="nav-link js-scrollTo" href="#projects">Projets</a></li>
                                 <li class="nav-item">
                                     <a  class="nav-link" onclick="doGTranslate('fr|en');return true;" title="English"><img src="img/flag/uk.png" height="16" width="16" alt="English" /></a>
                                     <a  class="nav-link" onclick="doGTranslate('fr|fr');return true;" title="French" ><img src="img/flag/fr.png" height="16" width="16" alt="French" /></a>
