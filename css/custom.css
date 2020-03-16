@@ -52,3 +52,12 @@ body {top:0 !important;}
     display: table-cell;
     cursor: pointer;
 }
+
+.btn-degrade{
+    background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+    background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+    color: #fff;
+    font-weight: 500;
+    border: none!important;
+}

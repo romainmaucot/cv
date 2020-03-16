@@ -23,8 +23,8 @@
 										<li><i class="lnr lnr-home"></i> Boulogne-Billancourt</li>
 									</ul>
 									<ul class="list personal_social">
-										<li><a href="https://www.linkedin.com/in/romain-maucotel-a44587152/"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/romain-maucotel-a44587152/"><i class="fa fa-github"></i></a></li>
+										<li><a href="https://www.linkedin.com/in/romain-maucotel-a44587152/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/romain-maucotel-a44587152/" target="_blank"><i class="fa fa-github"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -419,4 +419,8 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
         <script src="js/custom.js"></script>
     </body>
 </html>
-<?php include_once ("modal/rockntattoo.html")  ?>
+<?php
+include_once ("modal/rockntattoo.html");
+include_once ("modal/sep.html");
+include_once ("modal/fairmont.html");
+?>
