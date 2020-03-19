@@ -12,19 +12,27 @@
 							</div>
 							<div class="media-body">
 								<div class="personal_text">
-									<h6>Bonjour, je m'apelle</h6>
+									<h6>Bonjour, je m'appelle</h6>
 									<h3>Romain maucotel</h3>
-									<h4>Développeur web </h4>
+									<h4>Développeur full stack </h4>
 									<p></p>
 									<ul class="list basic_info">
 										<li><i class="lnr lnr-calendar-full"></i> 7 août 1997</li>
-										<li><i class="lnr lnr-phone-handset"></i> +33 6 43 29 98 59</li>
-										<li><i class="lnr lnr-envelope"></i> maucotel.romain@gmail.com</li>
+										<li><i class="lnr lnr-phone-handset"></i><a href="tel:+33643299859" style="padding-left: 3px; color: #7770FE;">+33 6 43 29 98 59</a></li>
+										<li><i class="lnr lnr-envelope"></i><a href="mailto:maucotel.romain@gmail.com" style="padding-left: 3px; color: #7770FE;">maucotel.romain@gmail.com</a></li>
 										<li><i class="lnr lnr-home"></i> Boulogne-Billancourt</li>
 									</ul>
 									<ul class="list personal_social">
-										<li><a href="https://www.linkedin.com/in/romain-maucotel-a44587152/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/romain-maucotel-a44587152/" target="_blank"><i class="fa fa-github"></i></a></li>
+										<li>
+                                            <a href="https://www.linkedin.com/in/romain-maucotel-a44587152/" class="bck-purple" target="_blank">
+                                                <i class="fa fa-linkedin"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://github.com/romainmaucot" class="bck-purple" target="_blank">
+                                                <i class="fa fa-github"></i>
+                                            </a>
+                                        </li>
 									</ul>
 								</div>
 							</div>
@@ -42,53 +50,39 @@
         			<div class="col-lg-6">
         				<div class="welcome_text">
         					<h4>À propos de moi</h4>
-        					<p>inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often laughed.</p>
+                            <p style="padding-top: 25px;">
+                                Je suis actuellement en Master 2 développeur web & mobile en alternance. Je maîtrise Symfony, React et Wordpress.<br><br> La qualité de code, la sécurité et la gestion de projet sont pour moi des aspects indispensables à ce métier. <br><br>Mon autonomie, ma capacité d'adaptation et mon implication au sein d'une équipe font de moi un atout solide. Je suis curieux, dynamique et ouvert d'esprit.
+                            </p>
+                            <h5>Hobbies</h5>
+                            <hr style="border-top: 1.5px solid rgba(0, 0, 0, .1);">
+                            <ul id="hobbies">
+                                <li style="padding: 10px 9px;"><img style="margin-bottom: 6px;" src="img/hobbies/painting.png" width="28px"/></li>
+                                <li style="padding: 10px 11px;"><img style="margin-bottom: 4px;" src="img/hobbies/basket.png" width="25px"/></li>
+                                <li style="padding: 10px 11px;"><img style="margin-bottom: 4px;" src="img/hobbies/baking.png" width="25px"/></li>
+                                <li style="padding: 10px 7px;"><img style="margin-bottom: 4px;" src="img/hobbies/backpack.png" width="33px"/></li>
+                                <li style="padding: 10px 7px;"><img style="margin-bottom: 4px;" src="img/hobbies/dance.png" width="33px"/></li>
+                            </ul>
         				</div>
         			</div>
-        			<div class="col-lg-6">
+        			<div class="col-lg-6" >
         				<div class="tools_expert">
         					<div class="skill_main">
-								<div class="skill_item">
-									<h4>Symfony <span class="counter">74</span>%</h4>
-									<div class="progress_br">
-										<div class="progress">
-											<div class="progress-bar" role="progressbar" aria-valuenow="74" aria-valuemin="0" aria-valuemax="100"></div>
-										</div>
-									</div>
-								</div>
-								<div class="skill_item">
-									<h4>Javascript <span class="counter">56</span>%</h4>
-									<div class="progress_br">
-										<div class="progress">
-											<div class="progress-bar" role="progressbar" aria-valuenow="56" aria-valuemin="0" aria-valuemax="100"></div>
-										</div>
-									</div>
-								</div>
-								<div class="skill_item">
-									<h4>Bootstrap <span class="counter">88</span>%</h4>
-									<div class="progress_br">
-										<div class="progress">
-											<div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"></div>
-										</div>
-									</div>
-								</div>
-								<div class="skill_item">
-									<h4>Wordpress <span class="counter">85</span>%</h4>
-									<div class="progress_br">
-										<div class="progress">
-											<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-										</div>
-									</div>
-								</div>
-									<div class="skill_item">
-										<h4>Suite Adobe (Ps, Ai, Id, Xd, An) <span class="counter">64</span>%</h4>
-										<div class="progress_br">
-											<div class="progress">
-												<div class="progress-bar" role="progressbar" aria-valuenow="64" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-										</div>
-									</div>
-								</div>
+                                <div class="card profile-card-5">
+                                    <div class="card-img-block">
+                                        <img class="card-img-top" src="img/gallery/logo.png" alt="Card image cap">
+                                    </div>
+                                    <div class="card-body pt-0" style="margin-top: -20px">
+                                        <h5 class="text-dark">Projet Entreprenarial</h5>
+                                        <p class="card-text">C'est en 2019 que nous créons Dentiio, accompagné de mon équipe de développeur et en étroite collaboration avec le Dr. Le Divenach, chirugien-denstiste.<br><br>
+                                            Le projet consiste à mettre à disposition des professionnels et étudiants du domaine dentaires une plateforme médicale de partage de connaissances.<br><br>
+                                            Cette aventure me permet chaque jour d'acquérir de nouvelles compétences et de m'affirmer dans l'entreprenariat.
+                                        </p>
+                                        <div class="text-center">
+                                            <a href="https://dentiio.fr/" target="_blank"><button class="btn bck-blue">Visiter</button></a>
+                                            <a href="https://www.instagram.com/dentiio.fr/" target="_blank"><img src="img/instagram.png" width="36px"></a>
+                                        </div>
+                                    </div>
+                                </div>
 							</div>
         				</div>
         			</div>
@@ -144,7 +138,7 @@
 										</div>
 										<div class="media-body">
 											<h4>&Eacute;cole de Condé</h4>
-											<p>Arts Appliqués<br />Design graphique, Nancy</p>
+											<p>Arts Appliqués<br />Design graphique<br> Nancy</p>
 										</div>
 									</div>
 								</li>
@@ -152,6 +146,18 @@
 						</div>
 						<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 							<ul class="list">
+                                <li>
+                                    <span></span>
+                                    <div class="media">
+                                        <div class="d-flex">
+                                            <p>Depuis Novembre 2019</p>
+                                        </div>
+                                        <div class="media-body">
+                                            <h4>Dentiio</h4>
+                                            <p>Dirigeant<br />Paris</p>
+                                        </div>
+                                    </div>
+                                </li>
 								<li>
 									<span></span>
 									<div class="media">
@@ -167,12 +173,12 @@
                                 <li>
                                     <span></span>
                                     <div class="media">
-                                        <div class="d-flex" style="padding-right: 60px;">
-                                            <p>Septembre à novembre 2018</p>
+                                        <div class="d-flex" style="padding-right: 140px">
+                                            <p>Depuis Avril 2018</p>
                                         </div>
                                         <div class="media-body">
-                                            <h4>Codecom</h4>
-                                            <p>Gestion de logiciel de stocks <br />Paris</p>
+                                            <h4>FREELANCE</h4>
+                                            <p>Développeur web <br> Design graphique</p>
                                         </div>
                                     </div>
                                 </li>
@@ -287,21 +293,49 @@
         <section class="home_gallery_area p_120" id="projects">
         	<div class="container">
         		<div class="main_title">
-        			<h2>Projects réalisés</h2>
-        			<p>Voici une partie des projets auquels j'ai contribué. Qu'ils soient personels, en entreprise, scolaire où pour des clients ils méritent le coup d'oeil</p>
+        			<h2>Projets réalisés</h2>
+        			<p>Les projets auxquels j'ai participé sont très variés, je me suis autant investis dans des domaines artistiques, automobiles où même médical.</p>
         		</div>
         		<div class="isotope_fillter">
         			<ul class="gallery_filter list">
 						<li class="active" data-filter="*"><a href="#">Tous</a></li>
-						<li data-filter=".entreprise"><a href="#">En entreprise</a></li>
-						<li data-filter=".school"><a href="#">Scolaire</a></li>
-						<li data-filter=".client"><a href="#">Client</a></li>
+						<li data-filter=".sf"><a href="#">Symfony 4</a></li>
+						<li data-filter=".js"><a href="#">Javascript</a></li>
+						<li data-filter=".wp"><a href="#">Wordpress</a></li>
 					</ul>
         		</div>
         	</div>
         	<div class="container">
         		<div class="gallery_f_inner row imageGallery1">
-                    <div class="col-lg-4 col-md-4 col-sm-6 client">
+                    <div class="col-lg-4 col-md-4 col-sm-6 wp js">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/sep.jpg" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#sep">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>La Roche Posay</h4>
+                                <p>Aide pour les personnes atteintes de la sclérose en plaque</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 wp">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/lancome.jpg" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#lancome">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Lancôme</h4>
+                                <p>E-learning</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 wp">
         				<div class="h_gallery_item">
         					<div class="g_img_item">
         						<img class="img-fluid" src="img/gallery/rockntattoo.jpg" alt="">
@@ -315,21 +349,7 @@
         					</div>
         				</div>
         			</div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 entreprise">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/sep.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#sep">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Sep Mes Droits</h4>
-                                <p>Aide pour les personnes atteintes de la sclérose en plaque</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 entreprise">
+                    <div class="col-lg-4 col-md-4 col-sm-6 js">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
                                 <img class="img-fluid" src="img/gallery/fairmont.png" alt="">
@@ -343,17 +363,59 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 entreprise">
+                    <div class="col-lg-4 col-md-4 col-sm-6 js">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
                                 <img class="img-fluid" src="img/gallery/photo-comparator.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#photo">
+                                <a class="lightcustom" data-toggle="modal" data-target="#comparator">
                                     <img src="img/gallery/icon.png" alt="">
                                 </a>
                             </div>
                             <div class="g_item_text">
                                 <h4>Photo Comparator</h4>
                                 <p>Un outil pour les dermatologues</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 sf">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/mazda.jpg" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#odr">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Mazda</h4>
+                                <p>Offres de remboursement</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 wp">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/lawyer.jpg" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#lawyer">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Call a lawyer</h4>
+                                <p>Start-Up</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 sf js">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/dentiio.jpg" alt="">
+                                <a class="lightcustom" data-toggle="modal" data-target="#dentiio">
+                                    <img src="img/gallery/icon.png" alt="">
+                                </a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Dentiio</h4>
+                                <p>La référence du diagnostic dentaire</p>
                             </div>
                         </div>
                     </div>
@@ -385,7 +447,7 @@
         	<div class="container">
         		<div class="row footer_inner">
         			<div class="col-lg-12 col-sm-12 text-center">
-                        <p class="text-white">Made with <i class="fa fa-heart-o" aria-hidden="true"></i> </p>
+                        <p class="text-white">Copyright ©</p>
         			</div>
         		</div>
         	</div>
@@ -423,4 +485,9 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 include_once ("modal/rockntattoo.html");
 include_once ("modal/sep.html");
 include_once ("modal/fairmont.html");
+include_once ("modal/comparator.html");
+include_once ("modal/lancome.html");
+include_once ("modal/odr.html");
+include_once ("modal/lawyer.html");
+include_once ("modal/dentiio.html");
 ?>

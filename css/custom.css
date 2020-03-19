@@ -61,3 +61,75 @@ body {top:0 !important;}
     font-weight: 500;
     border: none!important;
 }
+
+.bck-purple{
+    background: lightgray!important;
+    cursor: pointer!important;
+}
+.bck-purple:hover{
+    background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+}
+
+.bck-blue{
+    background: #00B8F6!important;
+    color: #fff;
+    cursor: pointer!important;
+    border: none;
+}
+.bck-blue:hover{
+    background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    border: none;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0px 20px 80px 0px rgba(153, 153, 153, 0.4);
+}
+
+.profile-card-5 .card-img-block img {
+    border-radius: 12px;
+    box-shadow: 0px 0px 30px 0px rgba(153, 153, 153, 0.8);
+}
+
+.profile-card-5 .card-img-block {
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    top: -50px;
+
+}
+
+ul#hobbies li {
+    display: inline;
+    text-align: left;
+    padding: 10px 12px;
+    margin: 0 5px 0 0;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 50px;
+    background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
+    box-shadow: 1px 3px 10px 0px rgba(153, 153, 153, 0.8);
+
+}
+
+ul#hobbies {
+    padding-inline-start: 0px;
+    padding: 10px 0 45px;
+}
