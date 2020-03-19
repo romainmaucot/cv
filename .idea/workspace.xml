@@ -3,52 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="929b0c46-7ff8-4d5d-9d7c-c47dad33bff0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/flag/es.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/flag/es.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/flag/fr.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/flag/fr.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/flag/uk.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/flag/uk.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hobbies/backpack.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hobbies/backpack.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hobbies/baking.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hobbies/baking.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hobbies/basket.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hobbies/basket.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hobbies/painting.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hobbies/painting.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/personal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/personal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/Figma.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/Figma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/Figma.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/animate.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/animate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/bootstrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/bootstrap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/composer.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/composer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/css.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/css.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/docker.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/docker.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/etc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/etcetera.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/etcetera.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/github-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/github-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/gitlab-icon-rgb.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/gitlab-icon-rgb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/heroku.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/heroku.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/html.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/html.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/html2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/in.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/in.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/js.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/js.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/php.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/php.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/phpunit.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/phpunit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/postgre.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/postgre.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/postman.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/ps.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/ps.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/react.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/sf.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/sf.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/sql.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/sql.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/swagger.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/swagger.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/wp.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/wp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skills/xd.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/xd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal/comparator.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/comparator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal/dentiio.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/dentiio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal/fairmont.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/fairmont.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal/lancome.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/lancome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal/lawyer.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/lawyer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal/rockntattoo.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/rockntattoo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal/sep.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/sep.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="1770">
               <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
             </state>
           </provider>
@@ -75,8 +31,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="429" column="49" lean-forward="true" selection-start-line="429" selection-start-column="49" selection-end-line="429" selection-end-column="49" />
+            <state relative-caret-position="153">
+              <caret line="298" column="162" selection-start-line="298" selection-start-column="162" selection-end-line="298" selection-end-column="162" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -85,7 +50,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>frame</find>
       <find>brea</find>
       <find>slbWrap</find>
       <find>rock`</find>
@@ -115,6 +79,7 @@
       <find>pr-0</find>
       <find>welcome_text</find>
       <find>skil</find>
+      <find>artiste</find>
     </findStrings>
     <replaceStrings>
       <replace>js.png</replace>
@@ -137,7 +102,6 @@
         <option value="$PROJECT_DIR$/js/theme.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.github/workflows/deploy.yml" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/modal/rockntatto.html" />
         <option value="$PROJECT_DIR$/projects/fairmont-game/mobile/index.php" />
@@ -156,6 +120,7 @@
         <option value="$PROJECT_DIR$/modal/lawyer.html" />
         <option value="$PROJECT_DIR$/modal/dentiio.html" />
         <option value="$PROJECT_DIR$/modal/lancome.html" />
+        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -170,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,18 +203,19 @@
       <workItem from="1584351113715" duration="9803000" />
       <workItem from="1584458836540" duration="7435000" />
       <workItem from="1584545159962" duration="9680000" />
-      <workItem from="1584603903531" duration="10506000" />
+      <workItem from="1584603903531" duration="10986000" />
+      <workItem from="1584646001742" duration="221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67934000" />
+    <option name="totallyTimeSpent" value="68635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2074392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21030043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,7 +230,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.28712872" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.28712872" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -488,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modal/odr.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -563,15 +522,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="1770">
           <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="429" column="49" lean-forward="true" selection-start-line="429" selection-start-column="49" selection-end-line="429" selection-end-column="49" />
+        <state relative-caret-position="153">
+          <caret line="298" column="162" selection-start-line="298" selection-start-column="162" selection-end-line="298" selection-end-column="162" />
         </state>
       </provider>
     </entry>

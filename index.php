@@ -209,7 +209,7 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Compétences</h2>
-        			<p>Voici la liste des techologies et logiciels que je maîtrise:</p>
+        			<p>Voici la liste des technologies et logiciels que je maîtrise:</p>
         		</div>
         		<div class="feature_inner row">
                     <div class="row" style="margin-right: 0px; margin-left: 0px;">
@@ -217,7 +217,7 @@
                             <img class="img-thumbnail" src="img/skills/github-logo.png" width="85%">
                         </div>
                         <div class="col-md-2 col-3 col-sm-3 mt-4">
-                            <img class="img-thumbnail" src="img/skills/gitlab-icon-rgb.png">
+                        ƒ    <img class="img-thumbnail" src="img/skills/gitlab-icon-rgb.png">
                         </div>
                         <div class="col-md-2 col-3 col-sm-3 mt-4 text-center">
                             <img class="img-thumbnail" src="img/skills/sf.png" width="85%">
@@ -296,7 +296,7 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Projets réalisés</h2>
-        			<p>Les projets auxquels j'ai participé sont très variés, je me suis aussi bien investi dans des domaines artistiques, automobiles que médicals.</p>
+        			<p>Les projets auxquels j'ai participé sont très variés, je me suis aussi bien investi dans des domaines artistiques, automobiles que médicaux.</p>
         		</div>
         		<div class="isotope_fillter">
         			<ul class="gallery_filter list">

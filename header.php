@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
     <head>
+        <meta charset="utf-8">
+        <meta name="Description" CONTENT="Cv Romain Maucotel Développeur xeb & mobile">
+        <meta name="google-site-verification" content="+nxGUDJ4QpAZ5l9Bsjdi102tLVC21AIh5d1Nl23908vVuFHs34="/>
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
