@@ -133,3 +133,9 @@ ul#hobbies {
     padding-inline-start: 0px;
     padding: 10px 0 45px;
 }
+
+.btn-lightgray{
+    background-color: #dedede!important;
+    border-color: #dedede!important;
+    color: #fff!important;
+}

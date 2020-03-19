@@ -210,7 +210,7 @@
         			<p>Voici la liste des techologies et logiciels que je maîtrise</p>
         		</div>
         		<div class="feature_inner row">
-                    <div class="row">
+                    <div class="row" style="margin-right: 0px; margin-left: 0px;">
                         <div class="col-md-2 col-3 col-sm-3 mt-4 text-center">
                             <img class="img-thumbnail" src="img/skills/github-logo.png" width="85%">
                         </div>

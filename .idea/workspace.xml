@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="929b0c46-7ff8-4d5d-9d7c-c47dad33bff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/gallery/dentiio-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hobbies/backpack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hobbies/baking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hobbies/basket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hobbies/dance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hobbies/painting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal/comparator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal/dentiio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal/lancome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal/lawyer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal/odr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/personal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/personal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/comparator.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/comparator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/dentiio.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/dentiio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modal/fairmont.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/fairmont.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/lancome.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/lancome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/lawyer.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/lawyer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/odr.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/odr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modal/rockntattoo.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/rockntattoo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modal/sep.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/sep.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/image-comparator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/image-comparator/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,29 +28,104 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="94" column="26" lean-forward="true" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+            <state relative-caret-position="499">
+              <caret line="139" column="25" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modal/sep.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+            <state relative-caret-position="369">
+              <caret line="72" selection-start-line="72" selection-end-line="73" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="e#3707#3714#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
+        <entry file="file://$PROJECT_DIR$/modal/rockntattoo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="304">
+              <caret line="64" column="116" selection-start-line="64" selection-start-column="116" selection-end-line="64" selection-end-column="116" />
+              <folding>
+                <element signature="e#3192#3199#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modal/lawyer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="39" column="116" selection-start-line="39" selection-start-column="116" selection-end-line="39" selection-end-column="116" />
+              <folding>
+                <element signature="e#1467#1474#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modal/dentiio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="47" column="116" selection-start-line="47" selection-start-column="116" selection-end-line="47" selection-end-column="116" />
+              <folding>
+                <element signature="e#1891#1898#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modal/comparator.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="116" selection-start-line="24" selection-start-column="116" selection-end-line="24" selection-end-column="116" />
+              <folding>
+                <element signature="e#674#681#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modal/odr.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#673#680#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modal/lancome.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="68" selection-start-line="68" selection-end-line="71" selection-end-column="34" />
+              <folding>
+                <element signature="e#3503#3510#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modal/fairmont.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="116" selection-start-line="25" selection-start-column="116" selection-end-line="25" selection-end-column="116" />
+              <folding>
+                <element signature="e#681#688#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>aja</find>
       <find>nice</find>
       <find>css</find>
       <find>frame</find>
@@ -101,6 +163,7 @@
       <find>font</find>
       <find>made</find>
       <find>favi</find>
+      <find>pr-0</find>
     </findStrings>
     <replaceStrings>
       <replace>js.png</replace>
@@ -131,17 +194,17 @@
         <option value="$PROJECT_DIR$/projects/image-comparator/index.html" />
         <option value="$USER_HOME$/Desktop/html/index-oft.html" />
         <option value="$USER_HOME$/Desktop/html/index.html" />
-        <option value="$PROJECT_DIR$/modal/lawyer.html" />
-        <option value="$PROJECT_DIR$/modal/lancome.html" />
-        <option value="$PROJECT_DIR$/modal/sep.html" />
-        <option value="$PROJECT_DIR$/modal/rockntattoo.html" />
-        <option value="$PROJECT_DIR$/modal/fairmont.html" />
-        <option value="$PROJECT_DIR$/modal/comparator.html" />
-        <option value="$PROJECT_DIR$/modal/odr.html" />
         <option value="$USER_HOME$/Downloads/html/index.html" />
-        <option value="$PROJECT_DIR$/modal/dentiio.html" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/modal/sep.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/modal/rockntattoo.html" />
+        <option value="$PROJECT_DIR$/modal/lawyer.html" />
+        <option value="$PROJECT_DIR$/modal/dentiio.html" />
+        <option value="$PROJECT_DIR$/modal/comparator.html" />
+        <option value="$PROJECT_DIR$/modal/lancome.html" />
+        <option value="$PROJECT_DIR$/modal/fairmont.html" />
+        <option value="$PROJECT_DIR$/modal/odr.html" />
       </list>
     </option>
   </component>
@@ -171,13 +234,7 @@
             <path>
               <item name="cv" type="b2602c69:ProjectViewProjectNode" />
               <item name="cv" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cv" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="image-comparator" type="462c0819:PsiDirectoryNode" />
+              <item name="modal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,12 +291,12 @@
       <workItem from="1584351113715" duration="9803000" />
       <workItem from="1584458836540" duration="7435000" />
       <workItem from="1584545159962" duration="9680000" />
-      <workItem from="1584603903531" duration="4172000" />
+      <workItem from="1584603903531" duration="4816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61600000" />
+    <option name="totallyTimeSpent" value="62244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -260,7 +317,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.28712872" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.28712872" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -376,34 +433,6 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/html/index-oft.html" />
     <entry file="file://$USER_HOME$/Desktop/html/index.html" />
-    <entry file="file://$PROJECT_DIR$/modal/rockntattoo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="55" column="143" selection-start-line="55" selection-start-column="143" selection-end-line="55" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal/fairmont.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal/sep.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="62" column="173" selection-start-line="62" selection-start-column="173" selection-end-line="62" selection-end-column="173" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal/comparator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/index 2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1036">
@@ -513,34 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal/lawyer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal/dentiio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" selection-start-line="44" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal/odr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="99" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal/lancome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="60" column="68" selection-start-line="60" selection-start-column="68" selection-end-line="60" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -548,19 +549,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="94" column="26" lean-forward="true" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+        <state relative-caret-position="198">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        <state relative-caret-position="499">
+          <caret line="139" column="25" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/sep.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="72" selection-start-line="72" selection-end-line="73" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="e#3707#3714#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/rockntattoo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="64" column="116" selection-start-line="64" selection-start-column="116" selection-end-line="64" selection-end-column="116" />
+          <folding>
+            <element signature="e#3192#3199#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/lawyer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" column="116" selection-start-line="39" selection-start-column="116" selection-end-line="39" selection-end-column="116" />
+          <folding>
+            <element signature="e#1467#1474#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/dentiio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="47" column="116" selection-start-line="47" selection-start-column="116" selection-end-line="47" selection-end-column="116" />
+          <folding>
+            <element signature="e#1891#1898#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/comparator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="116" selection-start-line="24" selection-start-column="116" selection-end-line="24" selection-end-column="116" />
+          <folding>
+            <element signature="e#674#681#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/fairmont.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="116" selection-start-line="25" selection-start-column="116" selection-end-line="25" selection-end-column="116" />
+          <folding>
+            <element signature="e#681#688#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/lancome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="68" selection-start-line="68" selection-end-line="71" selection-end-column="34" />
+          <folding>
+            <element signature="e#3503#3510#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/odr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#673#680#1" expanded="true" />
           </folding>
         </state>
       </provider>
