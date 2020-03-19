@@ -77,12 +77,56 @@ body {top:0 !important;}
     color: #fff;
     cursor: pointer!important;
     border: none;
+    padding: 11px 30px;
 }
 .bck-blue:hover{
     background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
     background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
     background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%)!important;
     border: none;
+}
+
+@media screen and (min-width: 990px) and (max-width: 1200px) {
+    .profile-card-5 .card-img-block {
+        top: -40px!important;
+    }
+    .mt-res{
+        margin-top: -17px!important;
+    }
+    .card-text{
+        padding-bottom: 26px!important;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .profile-card-5 .card-img-block {
+        top: -30px!important;
+    }
+    .mt-res{
+        margin-top: -17px!important;
+    }
+    .card-text{
+        padding-bottom: 20px!important;
+    }
+    ul#hobbies {
+        padding-inline-start: 0px;
+        padding: 10px 0 80px!important;
+    }
+    .res-hidden{
+        display: none!important;
+    }
+    .res-center{
+        text-align: center!important;
+    }
+}
+
+
+.card-text{
+    padding-bottom: 53px;
+}
+
+.card-body{
+    margin-bottom: 10px;
 }
 
 .card {
@@ -106,11 +150,15 @@ body {top:0 !important;}
 }
 
 .profile-card-5 .card-img-block {
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
     position: relative;
-    top: -50px;
+    top: -52px;
 
+}
+
+.mt-res{
+    margin-top: -35px;
 }
 
 ul#hobbies li {
@@ -131,7 +179,7 @@ ul#hobbies li {
 
 ul#hobbies {
     padding-inline-start: 0px;
-    padding: 10px 0 45px;
+    padding: 10px 0 100px;
 }
 
 .btn-lightgray{

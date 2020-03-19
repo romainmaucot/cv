@@ -44,17 +44,19 @@
         <!--================End Home Banner Area =================-->
 
         <!--================Welcome Area =================-->
-        <section id="aboutme" class="welcome_area p_120">
+        <section id="aboutme" class="welcome_area p_120" style="padding-bottom: 80px;">
         	<div class="container">
         		<div class="row welcome_inner">
-        			<div class="col-lg-6">
+        			<div class="col-lg-6 col-sm-12">
         				<div class="welcome_text">
-        					<h4>À propos de moi</h4>
-                            <p style="padding-top: 25px;">
-                                Je suis actuellement en Master 2 développeur web & mobile en alternance. Je maîtrise Symfony, React et Wordpress.<br><br> La qualité de code, la sécurité et la gestion de projet sont pour moi des aspects indispensables à ce métier. <br><br>Mon autonomie, ma capacité d'adaptation et mon implication au sein d'une équipe font de moi un atout solide. Je suis curieux, dynamique et ouvert d'esprit.
+        					<h4 style="padding-top: 17px;">À propos de moi</h4>
+                            <p style="padding-top: 28px; margin-bottom: 20px; max-width: 990px">
+                                Je suis actuellement en Master 2 développeur web & mobile en alternance. Je maîtrise Symfony, React et Wordpress, et m'intérresse aux pratiques de DevOps.<br><br>
+                                Mon autonomie, ma capacité d'adaptation et mon implication au sein d'une équipe font de moi un atout solide. Je suis curieux, dynamique et ouvert d'esprit.<br><br>
+                                La qualité de code, la sécurité et la gestion de projet sont pour moi des aspects indispensables à ce métier.
                             </p>
-                            <h5>Hobbies</h5>
                             <hr style="border-top: 1.5px solid rgba(0, 0, 0, .1);">
+                            <h5>Hobbies</h5>
                             <ul id="hobbies">
                                 <li style="padding: 10px 9px;"><img style="margin-bottom: 6px;" src="img/hobbies/painting.png" width="28px"/></li>
                                 <li style="padding: 10px 11px;"><img style="margin-bottom: 4px;" src="img/hobbies/basket.png" width="25px"/></li>
@@ -71,15 +73,15 @@
                                     <div class="card-img-block">
                                         <img class="card-img-top" src="img/gallery/logo.png" alt="Card image cap">
                                     </div>
-                                    <div class="card-body pt-0" style="margin-top: -20px">
+                                    <div class="card-body pt-0 mt-res">
                                         <h5 class="text-dark">Projet Entreprenarial</h5>
-                                        <p class="card-text">C'est en 2019 que nous créons Dentiio, accompagné de mon équipe de développeur et en étroite collaboration avec le Dr. Le Divenach, chirugien-denstiste.<br><br>
+                                        <p class="card-text">C'est en 2019 que nous créons Dentiio, accompagné de mon équipe de développeurs et en étroite collaboration avec le Dr. Le Divenach, chirugien-denstiste.<br><br>
                                             Le projet consiste à mettre à disposition des professionnels et étudiants du domaine dentaires une plateforme médicale de partage de connaissances.<br><br>
                                             Cette aventure me permet chaque jour d'acquérir de nouvelles compétences et de m'affirmer dans l'entreprenariat.
                                         </p>
                                         <div class="text-center">
                                             <a href="https://dentiio.fr/" target="_blank"><button class="btn bck-blue">Visiter</button></a>
-                                            <a href="https://www.instagram.com/dentiio.fr/" target="_blank"><img src="img/instagram.png" width="36px"></a>
+                                            <a href="https://www.instagram.com/dentiio.fr/" style="padding-left: 10px" target="_blank"><img src="img/instagram.png" width=46px"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -207,7 +209,7 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Compétences</h2>
-        			<p>Voici la liste des techologies et logiciels que je maîtrise</p>
+        			<p>Voici la liste des techologies et logiciels que je maîtrise:</p>
         		</div>
         		<div class="feature_inner row">
                     <div class="row" style="margin-right: 0px; margin-left: 0px;">
@@ -294,7 +296,7 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Projets réalisés</h2>
-        			<p>Les projets auxquels j'ai participé sont très variés, je me suis autant investis dans des domaines artistiques, automobiles où même médical.</p>
+        			<p>Les projets auxquels j'ai participé sont très variés, je me suis aussi bien investi dans des domaines artistiques, automobiles que médicals.</p>
         		</div>
         		<div class="isotope_fillter">
         			<ul class="gallery_filter list">
@@ -429,7 +431,7 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Petit plaisir</h2>
-        			<p>À écouter sans modération! Si vous ne connaissez pas, voici FKJ un artistes français aux influences funk, jazz, soul et électroniques.</p>
+        			<p>À écouter sans modération! Si vous ne connaissez pas, voici FKJ un artiste français aux influences funk, jazz, soul et électronique.</p>
         		</div>
 
                     <div class="embedresize">
