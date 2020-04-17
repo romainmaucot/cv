@@ -16,4 +16,26 @@ $( ".g_img_item" ).hover(
     }
 );
 
+$(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$( "#home-tab" ).click(
+    function() {
+        $( "#descexp" ).addClass('hide');
+        $( "#descstud" ).addClass('show');
+        $( "#descexp" ).removeClass('show');
+        $( "#descstud" ).removeClass('hide');
+    }
+);
+
+$( "#profile-tab" ).click(
+    function() {
+        $( "#descexp" ).addClass('show');
+        $( "#descstud" ).addClass('hide');
+        $( "#descexp" ).removeClass('hide');
+        $( "#descstud" ).removeClass('show');
+    }
+);
+
 

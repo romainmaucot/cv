@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="929b0c46-7ff8-4d5d-9d7c-c47dad33bff0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/hobbies/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hobbies/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hobbies/hiking.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hobbies/backpack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hobbies/dance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skills/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills/react.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/dentiio.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/dentiio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/odr.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/odr.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
+            <state relative-caret-position="3045">
+              <caret line="203" selection-start-line="203" selection-end-line="203" />
             </state>
           </provider>
         </entry>
@@ -31,8 +41,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="298" column="162" selection-start-line="298" selection-start-column="162" selection-end-line="298" selection-end-column="162" />
+            <state relative-caret-position="581">
+              <caret line="170" column="99" lean-forward="true" selection-start-line="170" selection-start-column="99" selection-end-line="170" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="776">
+              <caret line="2589" column="18" selection-start-line="2589" selection-start-column="18" selection-end-line="2589" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -50,13 +78,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>brea</find>
-      <find>slbWrap</find>
-      <find>rock`</find>
-      <find>it</find>
-      <find>toke</find>
-      <find>rock</find>
-      <find>fr</find>
       <find>custom.js</find>
       <find>lin</find>
       <find>linkedi</find>
@@ -80,11 +101,20 @@
       <find>welcome_text</find>
       <find>skil</find>
       <find>artiste</find>
+      <find>hr</find>
+      <find>&lt;hr</find>
+      <find>Avanc</find>
+      <find>.tabs_inner .tab-content .tab-pane .list li span</find>
+      <find>bootstrap</find>
+      <find>.list</find>
+      <find>pl-sm-5</find>
     </findStrings>
     <replaceStrings>
       <replace>js.png</replace>
       <replace>carousel-thumb-sep</replace>
       <replace>carousel-thumb-lawyer</replace>
+      <replace>pl-sm-5</replace>
+      <replace>&lt;h4 class=&quot;h2&quot;&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -96,13 +126,11 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/scss/_feature.scss" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/../mail/mail.html" />
         <option value="$PROJECT_DIR$/img/skills/api.svg" />
         <option value="$PROJECT_DIR$/js/theme.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.github/workflows/deploy.yml" />
-        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/modal/rockntatto.html" />
         <option value="$PROJECT_DIR$/projects/fairmont-game/mobile/index.php" />
         <option value="$PROJECT_DIR$/projects/fairmont-game/mobile/jeu.php" />
@@ -110,22 +138,26 @@
         <option value="$USER_HOME$/Desktop/html/index-oft.html" />
         <option value="$USER_HOME$/Desktop/html/index.html" />
         <option value="$USER_HOME$/Downloads/html/index.html" />
-        <option value="$PROJECT_DIR$/modal/odr.html" />
         <option value="$PROJECT_DIR$/modal/comparator.html" />
         <option value="$PROJECT_DIR$/modal/fairmont.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/modal/sep.html" />
         <option value="$PROJECT_DIR$/modal/rockntattoo.html" />
         <option value="$PROJECT_DIR$/modal/lawyer.html" />
-        <option value="$PROJECT_DIR$/modal/dentiio.html" />
         <option value="$PROJECT_DIR$/modal/lancome.html" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/modal/dentiio.html" />
+        <option value="$PROJECT_DIR$/modal/odr.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-23" />
+    <option name="y" value="-718" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -135,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,13 +178,51 @@
             <path>
               <item name="cv" type="b2602c69:ProjectViewProjectNode" />
               <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="flag" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="hobbies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="skills" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
               <item name="modal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,16 +233,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/gallery" />
-      <recent name="$PROJECT_DIR$/modal" />
-      <recent name="C:\wamp64\www\cv\modal" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/hobbies" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/gallery" />
       <recent name="$PROJECT_DIR$/.github/workflows" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/gallery" />
+      <recent name="$PROJECT_DIR$/modal" />
+      <recent name="C:\wamp64\www\cv\modal" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,22 +275,28 @@
       <workItem from="1584458836540" duration="7435000" />
       <workItem from="1584545159962" duration="9680000" />
       <workItem from="1584603903531" duration="10986000" />
-      <workItem from="1584646001742" duration="221000" />
+      <workItem from="1584646001742" duration="476000" />
+      <workItem from="1584863625699" duration="10269000" />
+      <workItem from="1585664120432" duration="304000" />
+      <workItem from="1585898559621" duration="532000" />
+      <workItem from="1586961329941" duration="5544000" />
+      <workItem from="1586970618894" duration="434000" />
+      <workItem from="1587031315384" duration="1400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68635000" />
+    <option name="totallyTimeSpent" value="87373000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-312" y="-1080" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21030043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1256656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -230,7 +307,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.28712872" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.15445544" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -258,7 +335,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/instagram/Image-01.jpg" />
     <entry file="file://$PROJECT_DIR$/img/instagram/Image-02.jpg" />
     <entry file="file://$PROJECT_DIR$/img/instagram/Image-03.jpg" />
     <entry file="file://$PROJECT_DIR$/img/instagram/Image-05.jpg" />
@@ -313,20 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="2564" column="22" selection-start-line="2564" selection-start-column="22" selection-end-line="2564" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -454,13 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal/odr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modal/comparator.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -499,13 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal/dentiio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="28" column="82" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modal/lancome.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
@@ -520,10 +568,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modal/dentiio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/odr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/hobbies/book.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
+        <state relative-caret-position="3045">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -534,10 +606,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="2589" column="18" selection-start-line="2589" selection-start-column="18" selection-end-line="2589" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="298" column="162" selection-start-line="298" selection-start-column="162" selection-end-line="298" selection-end-column="162" />
+        <state relative-caret-position="581">
+          <caret line="170" column="99" lean-forward="true" selection-start-line="170" selection-start-column="99" selection-end-line="170" selection-end-column="99" />
         </state>
       </provider>
     </entry>

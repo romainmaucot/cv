@@ -187,3 +187,25 @@ ul#hobbies {
     border-color: #dedede!important;
     color: #fff!important;
 }
+.tooltip-inner{
+    color:#777777;
+    border: 1px solid #777777;
+    background-color:#fff!important;
+}
+
+.bs-tooltip-auto[x-placement^=bottom] .arrow::before,
+.bs-tooltip-bottom .arrow::before {
+    border-bottom-color: #777777;
+}
+
+.tabs_inner .nav.nav-tabs {
+    margin-bottom: 40px;
+}
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
