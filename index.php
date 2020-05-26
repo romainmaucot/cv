@@ -53,7 +53,7 @@
                             <p style="padding-top: 28px; margin-bottom: 20px; max-width: 990px">
                                 Actuellement en Master 2 Développeur web & mobile en alternance, je maîtrise Symfony, React et Wordpress, et m'intéresse aux pratiques de DevOps.<br><br>
                                 Autonome mais impliqué, c’est au sein d’une équipe que j’exprime le mieux ma capacité d'adaptation et ma valeur en tant qu’atout solide à la réussite du groupe.<br><br>
-                                La qualité de code, la sécurité et la gestion de projet sont pour moi des aspects indispensables à ce métier.
+                                La qualité de code, la sécurité, la communication et la gestion de projet sont pour moi des aspects indispensables à ce métier.
                             </p>
                             <hr style="border-top: 1.5px solid rgba(0, 0, 0, .1);">
                             <h5>Hobbies</h5>
@@ -82,7 +82,12 @@
                                         </p>
                                         <div class="text-center">
                                             <a href="https://dentiio.fr/" target="_blank"><button class="btn bck-blue">Visiter</button></a>
-                                            <a href="https://www.instagram.com/dentiio.dentistry/" style="padding-left: 10px" target="_blank"><img src="img/instagram.png" width=46px"></a>
+                                        </div>
+                                        <div class="text-center pt-2">
+                                            <a href="https://www.linkedin.com/company/42440620" style="padding-left: 10px" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                            <a href="https://www.facebook.com/dentiio" style="padding-left: 10px" target="_blank"><i class="fa fa-facebook"></i></a>
+                                            <a href="https://twitter.com/dentiio" style="padding-left: 10px" target="_blank"><i class="fa fa-twitter"></i></a>
+                                            <a href="https://www.instagram.com/dentiio.dentistry/" style="padding-left: 10px" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </div>
                                     </div>
                                 </div>
