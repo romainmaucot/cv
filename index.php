@@ -8,7 +8,7 @@
 					<div class="banner_content">
 						<div class="media">
 							<div class="d-flex">
-								<img src="img/personal.jpg" alt="">
+								<img src="img/personal1.jpg" alt="">
 							</div>
 							<div class="media-body">
 								<div class="personal_text">
@@ -20,7 +20,7 @@
 										<li><i class="lnr lnr-calendar-full"></i> 7 août 1997</li>
 										<li><i class="lnr lnr-phone-handset"></i><a href="tel:+33643299859" style="padding-left: 3px; color: #7770FE;">+33 6 43 29 98 59</a></li>
 										<li><i class="lnr lnr-envelope"></i><a href="mailto:maucotel.romain@gmail.com" style="padding-left: 3px; color: #7770FE;">maucotel.romain@gmail.com</a></li>
-										<li><i class="lnr lnr-home"></i> Boulogne-Billancourt</li>
+										<li><i class="lnr lnr-home"></i> Concarneau</li>
 									</ul>
 									<ul class="list personal_social">
 										<li>
@@ -51,9 +51,9 @@
         				<div class="welcome_text">
         					<h4 style="padding-top: 17px;">À propos de moi</h4>
                             <p style="padding-top: 28px; margin-bottom: 20px; max-width: 990px">
-                                Actuellement en Master 2 Développeur web & mobile en alternance, je maîtrise Symfony, React et Wordpress, et m'intéresse aux pratiques de DevOps.<br><br>
+                                Actuellement en fin de Master 2 Expert en système d'information avec option cybersécurité, je maîtrise de nombreux langages de programmations et frameworks.<br><br>
                                 Autonome mais impliqué, c’est au sein d’une équipe que j’exprime le mieux ma capacité d'adaptation et ma valeur en tant qu’atout solide à la réussite du groupe.<br><br>
-                                La qualité de code, la sécurité, la communication et la gestion de projet sont pour moi des aspects indispensables à ce métier.
+                                La qualité de code, la sécurité, la gestion de projet et la relation client sont pour moi des aspects indispensables à ce métier.
                             </p>
                             <hr style="border-top: 1.5px solid rgba(0, 0, 0, .1);">
                             <h5>Hobbies</h5>
@@ -64,6 +64,8 @@
                                 <li style="padding: 10px 7px;" data-toggle="tooltip" data-placement="bottom" title="Trek"><img style="margin-bottom: 4px;" src="img/hobbies/hiking.png" width="33px"/></li>
                                 <li style="padding: 10px 10px;" data-toggle="tooltip" data-placement="bottom" title="Musique"><img style="margin-bottom: 5px;" src="img/hobbies/album.png" width="26px"/></li>
                                 <li style="padding: 10px 10px;" data-toggle="tooltip" data-placement="bottom" title="Lecture"><img style="margin-bottom: 5px;" src="img/hobbies/book.png" width="26px"/></li>
+                                <li style="padding: 10px 10px;" data-toggle="tooltip" data-placement="bottom" title="Surf"><img style="margin-bottom: 5px;" src="img/hobbies/surf.png" width="26px"/></li>
+
                             </ul>
         				</div>
         			</div>
@@ -78,7 +80,7 @@
                                         <h5 class="text-dark">Projet Entrepreneurial</h5>
                                         <p class="card-text">Dentiio est né en 2019 à l’issue d’un projet scolaire qui s’est avéré convertible en application professionnelle, autour d’une équipe de développeurs et en étroite collaboration avec un chirurgien-dentiste.<br><br>
                                             Le projet consiste à mettre à disposition des professionnels et étudiants du domaine dentaires une plateforme médicale de partage de connaissances.<br><br>
-                                            Cette aventure humaine et technique me permet chaque jour d'acquérir de nouvelles compétences tout en découvrant le monde de l’entreprise.
+                                            Cette aventure humaine et technique me permet chaque jour d'acquérir de nouvelles compétences tout en découvrant le monde de l'innovation.
                                         </p>
                                         <div class="text-center">
                                             <a href="https://dentiio.fr/" target="_blank"><button class="btn bck-blue">Visiter</button></a>
@@ -113,10 +115,22 @@
 					</ul>
 					<div class="tab-content" id="myTabContent">
 						<div class="tab-pane fade show active text-white" id="home" role="tabpanel" aria-labelledby="home-tab">
-                            <p class="text-center pb-5">Après l'obtention d'un bac scientifique, je me suis dirigé vers une école d'arts appliqués, formation qui ne me correspondait pas. J'ai alors découvert le développement web, domaine passionnant, dans lequel j'ai décidé de m'investir.
-                                La formation SIMPLON.CO m'as confirmé ce choix en y découvrant certains aspects du métier. J'ai donc poursuivi ma formation dans l'école IPSSI, en alternance, me permettant chaque jour d'approfondir mes connaissances et de les appliquer dans le milieu professionnel.
+                            <p class="text-center pb-5">C'est en 2017 que j'ai découvert le développement web, domaine passionnant, dans lequel j'ai décidé de m'investir.
+                                La formation SIMPLON.CO m'as confirmé ce choix en y découvrant certains aspects du métier. J'ai donc poursuivi ma formation dans l'école IPSSI à Paris, puis dans l'école EPSI à Brest, toutes deux en alternance, ce qui m'as permis d'approfondir mes connaissances et de les appliquer dans le milieu professionnel.
                             </p>
                             <ul class="list ml-sm-5">
+                            <li>
+                                    <span></span>
+                                    <div class="pl-sm-5">
+                                        <div class="d-flex">
+                                            <p class="shadow rounded p-1">Novembre 2020 à 2021</p>
+                                        </div>
+                                        <div class="media-body">
+                                            <h4 class="h2">Ecole EPSI</h4>
+                                            <p>Bac+5, Alternance à Brest<br>Expert en SI option cybersécurité</p>
+                                        </div>
+                                    </div>
+                                </li>
                                 <li>
                                     <span></span>
                                     <div class="pl-sm-5">
@@ -182,10 +196,22 @@
 
 
 						<div class="tab-pane fade text-white" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                            <p class="text-center pb-5">Après l'obtention d'un bac scientifique, je me suis dirigé vers une école d'arts appliqués, formation qui ne me correspondait pas. J'ai alors découvert le développement web, domaine passionnant, dans lequel j'ai décidé de m'investir.
-                                La formation SIMPLON.CO m'as confirmé ce choix en y découvrant certains aspects du métier. J'ai donc poursuivi ma formation dans l'école IPSSI, en alternance, me permettant chaque jour d'approfondir mes connaissances et de les appliquer dans le milieu professionnel.
+                        <p class="text-center pb-5">C'est en 2017 que j'ai découvert le développement web, domaine passionnant, dans lequel j'ai décidé de m'investir.
+                                La formation SIMPLON.CO m'as confirmé ce choix en y découvrant certains aspects du métier. J'ai donc poursuivi ma formation dans l'école IPSSI à Paris, puis dans l'école EPSI à Brest, toutes deux en alternance, ce qui m'as permis d'approfondir mes connaissances et de les appliquer dans le milieu professionnel.
                             </p>
 							<ul class="list ml-sm-5">
+                            <li>
+                                    <span></span>
+                                    <div class="pl-sm-5">
+                                        <div class="d-flex">
+                                            <p class="shadow rounded p-1">Novembre 2020 à Septembre 2021</p>
+                                        </div>
+                                        <div class="media-body">
+                                            <h4 class="h2">Agence de développement ID3I</h4>
+                                            <p>Développeur Full-stack à Brest</p>
+                                        </div>
+                                    </div>
+                                </li>
                                 <li>
                                     <span></span>
                                     <div class="pl-sm-5">
@@ -205,7 +231,7 @@
 											<p class="shadow rounded p-1">Novembre 2018 à 2020</p>
 										</div>
 										<div class="media-body">
-											<h4 class="h2">Agence surf</h4>
+											<h4 class="h2">Agence de communication Surf</h4>
 											<p>Développeur web en alternance, Agence de communiction 360 à Paris</p>
 										</div>
 									</div>
@@ -289,6 +315,12 @@
                         <div class="col-md-2 col-3 col-sm-3 mt-4">
                             <img class="img-thumbnail" src="img/skills/apache.png">
                         </div>
+                        <div class="col-md-2 col-3 col-sm-3 mt-5">
+                            <img class="img-thumbnail" style="width: 80%" src="img/skills/vue.png">
+                        </div>
+                        <div class="col-md-2 col-3 col-sm-3 mt-4">
+                            <img class="img-thumbnail" src="img/skills/c.png">
+                        </div>
                         <div class="col-md-2 col-3 col-sm-3 mt-4">
                             <img class="img-thumbnail" src="img/skills/wp.png">
                         </div>
@@ -310,12 +342,7 @@
                         <div class="col-md-2 col-3 col-sm-3 mt-4">
                             <img class="img-thumbnail" src="img/skills/Figma.png">
                         </div>
-                        <div class="col-md-2 col-3 col-sm-3 mt-4">
-                            <img class="img-thumbnail" src="img/skills/xd.png">
-                        </div>
-                        <div class="col-md-2 col-3 col-sm-3 mt-4 text-center">
-                            <img class="img-thumbnail mt-2" src="img/skills/animate.png" width="75%">
-                        </div>
+                        
                         <div class="text-left col-12 text-dark mt-5">
                             <h3 class="mt-3">Intermédiaire</h3>
                             <hr style="border-top: 1.5px solid rgba(0, 0, 0, .1);">
@@ -367,7 +394,7 @@
         		<div class="isotope_fillter">
         			<ul class="gallery_filter list">
 						<li class="active" data-filter="*"><a href="#">Tous</a></li>
-						<li data-filter=".sf"><a href="#">Symfony 4</a></li>
+						<li data-filter=".sf"><a href="#">Symfony</a></li>
 						<li data-filter=".js"><a href="#">Javascript</a></li>
 						<li data-filter=".wp"><a href="#">Wordpress</a></li>
 					</ul>
