@@ -57,14 +57,14 @@
                             </p>
                             <hr style="border-top: 1.5px solid rgba(0, 0, 0, .1);">
                             <h5>Hobbies</h5>
-                            <ul id="hobbies">
+                            <ul id="hobbies" style="line-height: 3">
                                 <li style="padding: 10px 9px;" data-toggle="tooltip" data-placement="bottom" title="Peinture"><img style="margin-bottom: 6px;" src="img/hobbies/painting.png" width="28px"/></li>
                                 <li style="padding: 10px 11px;" data-toggle="tooltip" data-placement="bottom" title="Basketball"><img style="margin-bottom: 4px;" src="img/hobbies/basket.png" width="25px"/></li>
                                 <li style="padding: 10px 11px;" data-toggle="tooltip" data-placement="bottom" title="Cuisine"><img style="margin-bottom: 4px;" src="img/hobbies/baking.png" width="25px"/></li>
                                 <li style="padding: 10px 7px;" data-toggle="tooltip" data-placement="bottom" title="Trek"><img style="margin-bottom: 4px;" src="img/hobbies/hiking.png" width="33px"/></li>
                                 <li style="padding: 10px 10px;" data-toggle="tooltip" data-placement="bottom" title="Musique"><img style="margin-bottom: 5px;" src="img/hobbies/album.png" width="26px"/></li>
                                 <li style="padding: 10px 10px;" data-toggle="tooltip" data-placement="bottom" title="Lecture"><img style="margin-bottom: 5px;" src="img/hobbies/book.png" width="26px"/></li>
-                                <li style="padding: 10px 10px;" data-toggle="tooltip" data-placement="bottom" title="Surf"><img style="margin-bottom: 5px;" src="img/hobbies/surf.png" width="26px"/></li>
+                                <li style="padding: 10px 10px; margin-top:30px" data-toggle="tooltip" data-placement="bottom" title="Surf"><img style="margin-bottom: 5px;" src="img/hobbies/surf.png" width="26px"/></li>
 
                             </ul>
         				</div>
