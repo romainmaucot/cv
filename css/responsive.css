@@ -370,8 +370,7 @@
 		padding-bottom: 70px;
 	}
 	.home_banner_area .box_1620 {
-		bottom: -71px;
-		border-radius: 0px;
+		width: min-content;
 	}
 	.home_banner_area {
 		margin-bottom: 71px;
