@@ -37,8 +37,8 @@
                 <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                     <ul class="nav navbar-nav menu_nav ml-auto d-flex align-items-center">
                         <li class="nav-item active"><a class="nav-link js-scrollTo" href="#aboutme">&Agrave; propos de moi</a></li>
-                        <li class="nav-item"><a class="nav-link js-scrollTo" href="#experiences">Parcours</a></li>
                         <li class="nav-item"><a class="nav-link js-scrollTo" href="#skills">Compétences</a></li>
+                        <li class="nav-item"><a class="nav-link js-scrollTo" href="#experiences">Parcours</a></li>
                         <li class="nav-item"><a class="nav-link js-scrollTo" href="#projects">Projets</a></li>
                         <li class="nav-item">
                             <a  class="nav-link" onclick="doGTranslate('fr|en');return true;" title="English"><img src="img/flag/uk.png" height="16" width="16" alt="English" ></a>
@@ -59,13 +59,13 @@
            		<div class="banner_inner d-flex align-items-center">
 					<div class="banner_content">
 						<div class="media">
-							<div class="d-flex pr-5">
+							<div class="d-flex pr-md-5">
 								<img src="img/personal1.jpg" alt="">
 							</div>
 							<div class="media-body">
 								<div class="personal_text">
 									<h3>Romain maucotel</h3>
-									<h4>Développeur web full stack </h4>
+									<h4>Développeur web <br>full stack </h4>
 									<p></p>
 									<ul class="list basic_info">
 										<li><i class="lnr lnr-phone-handset"></i><a href="tel:+33643299859" style="padding-left: 3px; color: #7770FE;">+33 6 43 29 98 59</a></li>
@@ -82,11 +82,13 @@
 									<ul class="list personal_social">
 										<li>
                                             <a href="https://www.linkedin.com/in/romain-maucotel-a44587152/" class="bck-purple" target="_blank">
-                                                <i class="fa-brands fa-linkedin-in"></i>                                            </a>
+                                                <i class="fa-brands fa-linkedin-in p-2"></i>
+                                            </a>
                                         </li>
                                         <li>
                                             <a href="https://github.com/romainmaucot" class="bck-purple" target="_blank">
-                                                <i class="fa-brands fa-github"></i>                                            </a>
+                                                <i class="fa-brands fa-github p-2"></i>
+                                            </a>
                                         </li>
 									</ul>
 								</div>
@@ -101,7 +103,7 @@
         <!--================Welcome Area =================-->
         <section id="skills"  class="welcome_area p_120" style="padding-bottom: 80px;">
             <div class="container">
-                <div class="welcome_text mb-5">
+                <div class="welcome_text text-center mb-5 mt-5">
                     <h4>Compétences</h4>
                 </div>
                 <div class="row">
@@ -190,8 +192,9 @@
         <!--================End Welcome Area =================-->
 
         <!--================My Tabs Area =================-->
-        <section class="mytabs_area p_120" id="experiences">
+        <section class="mytabs_area pt-3" id="experiences">
         	<div class="container">
+                <h4 class="text-center my-5 text-white" style="font-size: 36px;">Parcours</h4>
         		<div class="tabs_inner">
 					<ul class="nav nav-tabs" id="myTab" role="tablist">
 						<li class="nav-item">
@@ -300,6 +303,13 @@
                                         <div class="media-body">
                                             <h4 class="h2">CircularX</h4>
                                             <p>Développeur Full-stack à Brest</p>
+                                            <ul>
+                                                <li class="mb-0">Méthodologie SCRUM en étroite collaboration avec les Products Owners afin d’ajuster les développements avec les besoins de nos clients et de la plateforme</li>
+                                                <li class="mb-0">Réalisations de cadrages techniques, rétro-planning et développements</li>
+                                                <li class="mb-0">Amélioration de la qualité du code: TDD, code review, le pair programming, CI</li>
+                                                <li class="mb-0">Élimination de dettes techniques, regroupement de micro-services insuffisamment structurés et optimisation de la base de données.</li>
+                                                <li class="mb-0">Mise en place d’une stratégie de load testing</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </li>
@@ -312,6 +322,10 @@
                                         <div class="media-body">
                                             <h4 class="h2">Agence de développement ID3I</h4>
                                             <p>Développeur Full-stack à Brest</p>
+                                            <ul>
+                                                <li class="mb-0">Lead dev sur une plateforme de ticketing</li>
+                                                <li class="mb-0">Mise en conformité RGPD de site web</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </li>
@@ -336,6 +350,11 @@
 										<div class="media-body">
 											<h4 class="h2">Agence de communication Surf</h4>
 											<p>Développeur web en alternance, Agence de communiction 360 à Paris</p>
+                                            <ul>
+                                                <li class="mb-0">Développement de sites vitrines et e-commerce</li>
+                                                <li class="mb-0">Réalisation d'une solution de gestion de campagne mail & sms pour Mazda</li>
+                                                <li class="mb-0">Développement d’une plateforme interne de gestion de bons de commande et de factures</li>
+                                            </ul>
 										</div>
 									</div>
 								</li>
@@ -347,7 +366,7 @@
                                         </div>
                                         <div class="media-body">
                                             <h4 class="h2">Freelance</h4>
-                                            <p>Développeur web & Design graphique</p>
+                                            <p>Développeur web</p>
                                         </div>
                                     </div>
                                 </li>
@@ -365,147 +384,89 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Projets réalisés</h2>
-        			<p>Artistiques, automobiles ou médicaux, les projets dont j’ai été chargé couvrent plusieurs domaines et mettent en œuvre différentes technologies.</p>
-        		</div>
-        		<div class="isotope_fillter">
-        			<ul class="gallery_filter list">
-						<li class="active" data-filter="*"><a href="#">Tous</a></li>
-						<li data-filter=".sf"><a href="#">Symfony</a></li>
-						<li data-filter=".js"><a href="#">Javascript</a></li>
-						<li data-filter=".wp"><a href="#">Wordpress</a></li>
-					</ul>
         		</div>
         	</div>
-        	<div class="container">
-        		<div class="gallery_f_inner row imageGallery1">
-                    <div class="col-lg-4 col-md-4 col-sm-6 wp js">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/sep.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#sep">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>La Roche Posay</h4>
-                                <p>Aide pour les personnes atteintes de la sclérose en plaque</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 wp">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/lancome.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#lancome">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Lancôme</h4>
-                                <p>E-learning</p>
+        	<div class="px-md-5 px-3">
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 h-100 mb-20">
+                        <div class="card">
+                            <img class="card-img-top" src="img/gallery/sep.jpg">
+                            <div class="card-body">
+                                <h4 class="card-title text-primary mb-2">Sep mes droits</h4>
+                                <h6 class="mb-3">La Roche Posay</h6>
+                                    <button type="button" class="btn btn-outline-secondary small" disabled>Wordpress</button>
+                                    <button type="button" class="btn btn-outline-secondary small" disabled>Javascript</button>
+                                    <br>
+                                    <br>
+                                    <p>
+                                        Un site web vitrine qui répertorie tous les droits et aides à disposition des personnes atteintes de la sclérose en plaque. <br><br>
+                                        Développement des systèmes de tri, plus intéractifs que les plug-in Wordpress.
+                                    </p>
+                                    <a href="https://www.sep-mes-droits.fr/" class="bck-purple text-white btn" target="_blank">
+                                        Voir <i class="fa-solid fa-eye p-2"></i>
+                                    </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 wp">
-        				<div class="h_gallery_item">
-        					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/rockntattoo.jpg" alt="">
-        						<a class="lightcustom" data-toggle="modal" data-target="#rockntattoo">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-        					</div>
-        					<div class="g_item_text">
-        						<h4>Rock N Tattoo</h4>
-        						<p>Salon de tattouage à Nancy</p>
-        					</div>
-        				</div>
-        			</div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 js">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/fairmont.png" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#fairmont">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Hôtels Fairmont</h4>
-                                <p>Jeu concours</p>
+                    <div class="col-md-4 col-sm-12 mb-20">
+                        <div class="card h-100">
+                            <img class="card-img-top" src="img/gallery/dentiio.jpg">
+                            <div class="card-body">
+                                <h4 class="card-title text-primary mb-2">Projet entrepreunarial</h4>
+                                <h6 class="mb-3">Dentiio</h6>
+                                    <button type="button" class="btn btn-outline-secondary small" disabled>Symfony</button>
+                                <button type="button" class="btn btn-outline-secondary small" disabled>Api platform</button>
+                                <button type="button" class="btn btn-outline-secondary small" disabled>React Js</button>
+                                <button type="button" class="btn btn-outline-secondary small mt-2" disabled>Docker</button>
+                                <button type="button" class="btn btn-outline-secondary small mt-2" disabled>CI / CD</button>
+                                    <br>
+                                    <br>
+                                <p>
+                                    Dentiio est une application Saas de partage de connaissances et cas cliniques bucco-dentaires à destinations des chirurgiens-dentistes et étudiants.
+                                </p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 js">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/photo-comparator.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#comparator">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Photo Comparator</h4>
-                                <p>Un outil pour les dermatologues</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 sf">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/mazda.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#odr">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Mazda</h4>
-                                <p>Offres de remboursement</p>
+                    <div class="col-md-4 col-sm-12 mb-20">
+                        <div class="card h-100">
+                            <img class="card-img-top" src="img/gallery/mazda.jpg">
+                            <div class="card-body">
+                                <h4 class="card-title text-primary mb-2">Offre de remboursement</h4>
+                                <h6 class="mb-3">Mazda</h6>
+                                <button type="button" class="btn btn-outline-secondary small" disabled>Symfony</button>
+                                <button type="button" class="btn btn-outline-secondary small" disabled>Twig</button>
+                                <button type="button" class="btn btn-outline-secondary small" disabled>Javascript</button>
+                                <button type="button" class="btn btn-outline-secondary small mt-2" disabled>Docker</button>
+                                <br>
+                                <br>
+                                <p>
+                                    Plateforme de gestion de campagne mail & sms pour Mazda France et ses concessionnaires. Elle permet de centraliser les offres de remboursement de la marque.<br><br>
+                                    Cet outil est consomme l'API de Send in blue.
+                                </p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 wp">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/lawyer.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#lawyer">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Call a lawyer</h4>
-                                <p>Start-Up</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 sf js">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/dentiio.jpg" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#dentiio">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Dentiio</h4>
-                                <p>La référence du diagnostic dentaire</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 sf">
-                        <div class="h_gallery_item">
-                            <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/surf.png" alt="">
-                                <a class="lightcustom" data-toggle="modal" data-target="#logisurf">
-                                    <img src="img/gallery/icon.png" alt="">
-                                </a>
-                            </div>
-                            <div class="g_item_text">
-                                <h4>Agence Surf</h4>
-                                <p>Outil de gestion interne</p>
+                    <div class="col-md-4 col-sm-12 mb-20">
+                        <div class="card h-100">
+                            <img class="card-img-top" src="img/gallery/circularx.jpeg">
+                            <div class="card-body">
+                                <h4 class="card-title text-primary mb-2">Seconde vie</h4>
+                                <h6 class="mb-3">CircularX</h6>
+                                <button type="button" class="btn btn-outline-secondary small" disabled>Symfony</button>
+                                <button type="button" class="btn btn-outline-secondary small" disabled>Vue Js</button>
+                                <button type="button" class="btn btn-outline-secondary small" disabled></button>
+                                <button type="button" class="btn btn-outline-secondary small mt-2" disabled>Docker</button>
+                                <br>
+                                <br>
+                                <p>
+                                    Plateforme de gestion de campagne mail & sms pour Mazda France et ses concessionnaires. Elle permet de centraliser les offres de remboursement de la marque.<br><br>
+                                    Cet outil est consomme l'API de Send in blue.
+                                </p>
                             </div>
                         </div>
                     </div>
 
-        	</div>
+                </div>
             </div>
         </section>
 
