@@ -62,6 +62,10 @@ body {top:0 !important;}
     border: none!important;
 }
 
+.btn-degrade:hover{
+    opacity: 90%;
+}
+
 .bck-purple{
     background: lightgray!important;
     cursor: pointer!important;
@@ -208,4 +212,24 @@ ul#hobbies {
 
 .hide{
     display: none;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 2px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: blue;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
